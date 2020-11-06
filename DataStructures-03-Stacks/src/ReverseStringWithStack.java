@@ -1,4 +1,4 @@
-public class StackMainOperationsApp {
+public class ReverseStringWithStack {
 
           public static void main(String[] args) {
 
